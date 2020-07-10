@@ -1,6 +1,4 @@
-#Django-Blog-App
-
-full-feature web blog application using the django framework and python. Which allows users to create, edit, and delete posts. The homepage will list all blog posts, and there will be a dedicated detail page for each individual post.
+Full-feature web blog application using the django framework and python. Which allows users to create, edit, and delete posts. The homepage will list all blog posts, and there will be a dedicated detail page for each individual post.
 
 Django is an open-source web framework, written in Python, that follows the model-view-template architectural pattern.
 

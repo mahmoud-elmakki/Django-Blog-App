@@ -11,6 +11,7 @@ features include :
 - updating profile info and picture
 - Posting new blog posts on your page.
 - Delete posts. 
+- working with signals
 - Automatically sending password-reset email in case of formatting it.
 - Viewing the details of your posts and other users' posts.
 
@@ -20,6 +21,7 @@ Dependencies :
 - django
 - django-storage
 - django crispy forms
+- Pillow
 - PostgreSQL
 - Heroku
 - AWS S3

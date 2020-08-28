@@ -57,6 +57,7 @@ the Django framework can take on numerous tasks. Django can be used for creating
 - Machine learning;
 - There are thousands of websites across the globe with Django at their core.
 
+## Demo
 
 Registration form
 

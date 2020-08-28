@@ -56,3 +56,36 @@ the Django framework can take on numerous tasks. Django can be used for creating
 - Data analysis solutions and complicated calculations;
 - Machine learning;
 - There are thousands of websites across the globe with Django at their core.
+
+
+Registration form
+
+![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/registration%20form.png)
+
+Log in page
+
+![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/log%20in%20page.png)
+
+Profile info
+
+![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/updating%20profile%20info.png)
+
+Updating profile picture
+
+![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/updating%20profile%20picture.png)
+
+Viewing post details
+
+![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/blog%201%20details.png)
+
+Post list view
+
+![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/blog%202.png)
+
+Password reset request
+
+![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/reset%20password.png)
+
+Sending password reset email
+
+![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/sending%20password%20reset%20emails.jpg)

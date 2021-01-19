@@ -71,15 +71,13 @@ Profile info
 
 ![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/updating%20profile%20info.png)
 
-Updating profile picture
+Updating profile
 
 ![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/updating%20profile%20picture.png)
 
 Viewing post details
 
 ![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/blog%201%20details.png)
-
-Post list view
 
 ![alt text](https://github.com/hotasalah/Django-Blog-App/blob/master/blog%202.png)
 
